@@ -1,0 +1,14 @@
+.card {
+    border-color: blue;
+}
+
+form {
+    margin: 20px;
+    padding: 20px;
+}
+
+#tituloprincipal {
+    margin-top: 70px;
+    margin-bottom: 30px;
+    text-align: center;
+}
